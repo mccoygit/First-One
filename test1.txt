@@ -1,0 +1,10 @@
+ Volume in drive E is At_Work_Dell
+ Volume Serial Number is 6AD0-09BB
+
+ Directory of E:\J_A_V_A\Tools working\1-project
+
+05-02-2023  12:34    <DIR>          .
+05-02-2023  12:34    <DIR>          ..
+05-02-2023  12:34                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  85,468,348,416 bytes free
